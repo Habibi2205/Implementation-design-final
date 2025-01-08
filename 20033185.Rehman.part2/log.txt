@@ -1,0 +1,12 @@
+Processed: Andrew Robertson, Parcel ID: X919, Fee: 10.0
+Processed: Ann Jones, Parcel ID: X064, Fee: 8.6
+New customer added: New Customer, Parcel ID: X999
+Customer removed: Blair Foster, Parcel ID: X682
+New customer added: New Customer, Parcel ID: X999
+New customer added: New Customer, Parcel ID: X999
+New customer added: New Customer, Parcel ID: X999
+New customer added: New Customer, Parcel ID: X999
+Customer removed: Bob Dawson, Parcel ID: X780
+Customer removed: Chris Smith, Parcel ID: X782
+Customer removed: Dave Jackson, Parcel ID: X316
+Customer removed: David Hunter, Parcel ID: X278
